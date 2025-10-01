@@ -1,0 +1,10 @@
+2025-10-01 10:18:08, MOVE, v:1, k:animal, mode:PICK
+2025-10-01 10:18:15, EXEC, v:1, k:animal, mode:FULL, rate:0, size:0
+2025-10-01 10:47:09, EXEC, v:1, k:animal, mode:FULL, rate:0
+2025-10-01 10:48:14, EXEC, v:1, k:animal, mode:FULL, rate:0
+2025-10-01 10:49:06, MOVE, v:1, k:animal, mode:BACK
+2025-10-01 10:49:08, MOVE, v:1, k:carro, mode:PICK
+2025-10-01 10:51:01, MOVE, v:1, k:carro, mode:BACK
+2025-10-01 10:51:03, MOVE, v:1, k:animal, mode:PICK
+2025-10-01 10:51:06, EXEC, v:1, k:animal, mode:FULL, rate:100, size:50
+2025-10-01 10:51:22, MOVE, v:1, k:animal, mode:BACK
